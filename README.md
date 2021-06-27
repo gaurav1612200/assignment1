@@ -27,7 +27,7 @@ void removeDuplicates(char* S)
 
 int main()
 {
-	char S1[] = "geeksforgeeks";
+	char S1[] = "aabccba";
 	removeDuplicates(S1);
 	cout << S1 << endl;
 
